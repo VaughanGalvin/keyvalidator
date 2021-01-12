@@ -14,6 +14,6 @@
     * c2bc778a-1cb9-46c6-b435-0489649d2a42 - FAIL
     * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 - OK
 	
-##Итого
+## Итого
 	* в первом блоке два ключа отдают unexpected result "FAIL"
 	* во втором блоке два ключа отдают unexpected result "OK"
