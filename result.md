@@ -6,14 +6,14 @@
 
 На тестирование затрачено: 0,25 часа
 
-В результате тестирования выявлены следующие дефекты: https://github.com/VaughanGalvin/keyvalidator/issues/1#issue-784347943
+В результате тестирования выявлены [следующие дефекты](https://github.com/VaughanGalvin/keyvalidator/issues/1#issue-784347943)
 
 # Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 * баг-репорт
 
-В качестве тестовых данных использовались данные из https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались данные из [репозитория](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 ### Ожидаемые валидные ключи (результаты теста):
 
